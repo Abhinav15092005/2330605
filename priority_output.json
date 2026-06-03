@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-06-03T09:53:06.605Z",
+  "candidate": {
+    "name": "Abhinav Pandey",
+    "rollNo": "2330605",
+    "college": "CGC University, Mohali",
+    "githubUsername": "Abhinav15092005"
+  },
+  "statistics": {
+    "Placement": 8,
+    "Result": 3,
+    "Event": 9
+  },
+  "totalNotifications": 20,
+  "top10Notifications": [
+    {
+      "rank": 1,
+      "type": "Placement",
+      "message": "Broadcom Inc. hiring",
+      "timestamp": "2026-06-03 03:20:26",
+      "id": "ac367bbc-1030-48ab-9449-b60900803fce"
+    },
+    {
+      "rank": 2,
+      "type": "Placement",
+      "message": "Eli Lilly and Company hiring",
+      "timestamp": "2026-06-02 21:52:26",
+      "id": "285ede7e-2265-4a78-9a4f-4ceac19a79dc"
+    },
+    {
+      "rank": 3,
+      "type": "Placement",
+      "message": "Berkshire Hathaway Inc. hiring",
+      "timestamp": "2026-06-02 18:52:02",
+      "id": "c7af9868-7750-4422-94e8-0edc0a677b96"
+    },
+    {
+      "rank": 4,
+      "type": "Placement",
+      "message": "Eli Lilly and Company hiring",
+      "timestamp": "2026-06-02 18:22:14",
+      "id": "c3827eee-3f93-481d-8233-1a2eba7b148e"
+    },
+    {
+      "rank": 5,
+      "type": "Placement",
+      "message": "Apple Inc. hiring",
+      "timestamp": "2026-06-02 16:52:38",
+      "id": "de2e08b9-502d-493c-b238-b74f82ef3a9c"
+    },
+    {
+      "rank": 6,
+      "type": "Placement",
+      "message": "Marvell Technology Inc. hiring",
+      "timestamp": "2026-06-02 14:21:38",
+      "id": "8dcfc42f-abfe-40f7-9341-4f4d973aae1c"
+    },
+    {
+      "rank": 7,
+      "type": "Placement",
+      "message": "Eli Lilly and Company hiring",
+      "timestamp": "2026-06-02 10:20:50",
+      "id": "5941cd15-10bd-4a1f-b6bc-fc5520883317"
+    },
+    {
+      "rank": 8,
+      "type": "Placement",
+      "message": "PayPal Holdings Inc. hiring",
+      "timestamp": "2026-06-02 09:49:14",
+      "id": "f63e314e-1af1-4d56-8641-2362a2fa0bd0"
+    },
+    {
+      "rank": 9,
+      "type": "Result",
+      "message": "project-review",
+      "timestamp": "2026-06-03 05:20:38",
+      "id": "ab63327a-1e35-4a78-be66-f1728adc8a05"
+    },
+    {
+      "rank": 10,
+      "type": "Result",
+      "message": "internal",
+      "timestamp": "2026-06-03 04:21:14",
+      "id": "a8f8e523-1e69-4aa3-b830-10eee0b4fec6"
+    }
+  ]
+}
