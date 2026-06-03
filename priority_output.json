@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T09:53:06.605Z",
+  "timestamp": "2026-06-03T09:55:31.119Z",
   "candidate": {
     "name": "Abhinav Pandey",
     "rollNo": "2330605",
@@ -7,18 +7,18 @@
     "githubUsername": "Abhinav15092005"
   },
   "statistics": {
-    "Placement": 8,
-    "Result": 3,
-    "Event": 9
+    "Placement": 7,
+    "Result": 5,
+    "Event": 8
   },
   "totalNotifications": 20,
   "top10Notifications": [
     {
       "rank": 1,
       "type": "Placement",
-      "message": "Broadcom Inc. hiring",
-      "timestamp": "2026-06-03 03:20:26",
-      "id": "ac367bbc-1030-48ab-9449-b60900803fce"
+      "message": "Amazon.com Inc. hiring",
+      "timestamp": "2026-06-02 22:53:38",
+      "id": "a1f8f447-2fc1-421c-8b90-5b3957ba9250"
     },
     {
       "rank": 2,
@@ -37,51 +37,51 @@
     {
       "rank": 4,
       "type": "Placement",
+      "message": "Marvell Technology Inc. hiring",
+      "timestamp": "2026-06-02 18:25:02",
+      "id": "da610c6f-0f2f-48a0-b441-ff618c0222d3"
+    },
+    {
+      "rank": 5,
+      "type": "Placement",
       "message": "Eli Lilly and Company hiring",
       "timestamp": "2026-06-02 18:22:14",
       "id": "c3827eee-3f93-481d-8233-1a2eba7b148e"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "type": "Placement",
       "message": "Apple Inc. hiring",
       "timestamp": "2026-06-02 16:52:38",
       "id": "de2e08b9-502d-493c-b238-b74f82ef3a9c"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "type": "Placement",
       "message": "Marvell Technology Inc. hiring",
       "timestamp": "2026-06-02 14:21:38",
       "id": "8dcfc42f-abfe-40f7-9341-4f4d973aae1c"
     },
     {
-      "rank": 7,
-      "type": "Placement",
-      "message": "Eli Lilly and Company hiring",
-      "timestamp": "2026-06-02 10:20:50",
-      "id": "5941cd15-10bd-4a1f-b6bc-fc5520883317"
-    },
-    {
       "rank": 8,
-      "type": "Placement",
-      "message": "PayPal Holdings Inc. hiring",
-      "timestamp": "2026-06-02 09:49:14",
-      "id": "f63e314e-1af1-4d56-8641-2362a2fa0bd0"
+      "type": "Result",
+      "message": "end-sem",
+      "timestamp": "2026-06-03 06:54:50",
+      "id": "4f5907ea-745c-43f9-aae7-6852c39e9944"
     },
     {
       "rank": 9,
       "type": "Result",
-      "message": "project-review",
-      "timestamp": "2026-06-03 05:20:38",
-      "id": "ab63327a-1e35-4a78-be66-f1728adc8a05"
+      "message": "end-sem",
+      "timestamp": "2026-06-03 02:51:50",
+      "id": "c12d8fb1-1b8e-431a-b81a-1584433c12da"
     },
     {
       "rank": 10,
       "type": "Result",
-      "message": "internal",
-      "timestamp": "2026-06-03 04:21:14",
-      "id": "a8f8e523-1e69-4aa3-b830-10eee0b4fec6"
+      "message": "project-review",
+      "timestamp": "2026-06-02 19:24:02",
+      "id": "d3a81704-2ce6-4e61-8e1c-d75e734671ea"
     }
   ]
 }
